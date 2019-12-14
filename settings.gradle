@@ -1,1 +1,1 @@
-include ':app', ':1_menu', ':2_slideViewpager', ':3_updown', ':4_switch'
+include ':app', ':1_menu', ':2_slideViewpager', ':3_updown', ':4_switch', ':5_autoattribute', ':6_autoviewpager'

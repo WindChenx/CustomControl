@@ -93,7 +93,6 @@ private boolean isEnableClick=true;
                     slideLeft=slideLeftMax;
                 }
                 invalidate();
-                startX=event.getX();
                 if(Math.abs(endX-lastX)>5){
                     isEnableClick=false;
                 }

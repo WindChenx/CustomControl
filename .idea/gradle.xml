@@ -12,6 +12,8 @@
             <option value="$PROJECT_DIR$/2_slideViewpager" />
             <option value="$PROJECT_DIR$/3_updown" />
             <option value="$PROJECT_DIR$/4_switch" />
+            <option value="$PROJECT_DIR$/5_autoattribute" />
+            <option value="$PROJECT_DIR$/6_autoviewpager" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
