@@ -1,7 +1,7 @@
 # CustomControl
 一些基本的自定义控件
 module运行截图：
-<div align="left">
+<div>
 <img src="https://images.cnblogs.com/cnblogs_com/dearnotes/1639494/o_200202081324b.gif" width="33%"/>
 <img src="https://images.cnblogs.com/cnblogs_com/dearnotes/1639494/o_200202081346c.gif" width="33%"/>
 <img src="https://images.cnblogs.com/cnblogs_com/dearnotes/1639494/o_2002021217596%200.png" width="33%"/>
